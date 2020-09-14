@@ -9,7 +9,7 @@ Telephone number: +375 29 291 30 21
 
 
 ## Summary
-I want to change my profession and work in an IT-company/
+I want to change my profession and work in an IT-company
 
 ## Skills 
 * HTML

@@ -19,7 +19,6 @@ I want to change my profession and work in an IT-company
 BREST STATE TECHNICAL UNIVERSITY  Engineering Systems and Ecology › Environmental Engineering > engineer
 
 ## Self education:
-htmlacademy.ru  
 code-basics.com
 codewars.com
 

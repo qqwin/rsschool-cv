@@ -1,1 +1,1 @@
-https://qqwin.github.io/rsschool-cv/cvh
+https://qqwin.github.io/rsschool-cv/cv

@@ -16,10 +16,13 @@ I want to change my profession and work in an IT-company
 * CSS
 
 ## Education
-BREST STATE TECHNICAL UNIVERSITY  Engineering Systems and Ecology › Environmental Engineering > engineer
+BREST STATE TECHNICAL UNIVERSITY  
+Engineering Systems and Ecology  
+Environmental Engineering   
+engineer
 
 ## Self education:
-code-basics.com
+code-basics.com  
 codewars.com
 
 ## English
